@@ -71,7 +71,7 @@ const Projects = () => {
           Daha fazlasını görmek isterseniz,
         </p>
         <h3 className="text-2xl font-semibold mb-6">
-          Tüm projelerimi ve kodlarımı GitHub'da inceleyebilirsiniz.
+          Tüm projelerimi ve kodlarımı GitHub&apos;da inceleyebilirsiniz.
         </h3>
         <Button asChild size="lg">
           <a

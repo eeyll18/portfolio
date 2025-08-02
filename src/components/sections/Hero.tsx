@@ -17,10 +17,16 @@ const Hero = () => {
       </p>
       <div className="flex gap-4">
         <Button asChild size="lg">
-            <Link href="#projeler">Projelerimi Gör</Link>
+          <Link href="#projeler">Projeler</Link>
         </Button>
         <Button asChild size="lg" variant="outline">
-            <a href="/cv.pdf">CV'mi indir</a>
+          <a
+            href="https://linkedin.com/in/eda-eylül-günay-a6764a238"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            LinkedIn
+          </a>
         </Button>
       </div>
     </section>

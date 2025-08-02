@@ -18,10 +18,6 @@ const Contact = () => {
           için aşağıdaki kanallardan bana ulaşabilirsiniz.
         </p>
 
-        {/* <Button asChild size="lg" className="mb-8">
-          <a>E-Posta Gönder</a>
-        </Button> */}
-
         <div className="flex justify-center items-center gap-6">
           <a
             href="https://github.com/eeyll18"
